@@ -6,6 +6,7 @@ package com.example.test.ww;
  * @author: joker
  * @date: 2020/3/28
  * @time: 17:17
+ * compatator
  */
 @FunctionalInterface // 只有一个抽象类 允许有默认方法和static
 public interface NoAbstract  {
